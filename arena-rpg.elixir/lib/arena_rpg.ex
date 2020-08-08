@@ -1,0 +1,2 @@
+defmodule ArenaRpg do
+end
